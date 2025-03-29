@@ -1,0 +1,5 @@
+# Ignore the compiled executable
+main
+
+# Ignore ImGui configuration file
+imgui.ini
