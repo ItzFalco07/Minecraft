@@ -1,0 +1,18 @@
+3. setup grass block image into the cube
+4. make a surface of cubes
+5. add a block break and block place logic
+6. change block on changing numbers (1 to 9)
+7. make render limit
+8. dont render blocks non seen stuff
+9. make chunks and noise
+10. add trees
+11. add grass
+12. add water
+13. add music and sound effects
+14. add a main screen
+15. add settings
+
+16. add player physics ( later )
+17. add day and night cycle ( later )
+18. add mobs (cow, sheep, zombie etc.) ( later )
+19. add multiplayer ( later )
